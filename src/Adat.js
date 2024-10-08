@@ -1,0 +1,1 @@
+export const LISTA=["x"," ","x","o","x"," ","x","o","x"];
